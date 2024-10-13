@@ -1,0 +1,8 @@
+firebase_admin
+os
+numpy
+face_recognition
+cv2
+cvzone
+datetime
+pickle
